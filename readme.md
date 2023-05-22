@@ -1,5 +1,6 @@
-![Astro](https://user-images.githubusercontent.com/2342458/230581871-dc3c1c5f-91a2-484c-8b5c-5065a6b99ff0.png)
-# Kinsta - Hello World - Apollo GraphQL
+![Apollographql](https://github.com/palmiak/hello-world-apollo/assets/2342458/0f7bdd54-b6a3-43e7-bd09-dcd59720826e)
+# Kinsta - Hello World - Apollo GraphQL!
+
 
 An example of how to deploy a GrapQL server using Apollo GraphQL on Kinsta App Hosting services.
 
@@ -28,5 +29,5 @@ When deploying an application, Kinsta automatically creates a web process with `
 
 Whenever a deployment is initiated (through creating an application or re-deploying due to an incoming commit) the `npm build` command is run, followed by the `npm start` command.
 
-## What is Astro
+## What is Apollo GraphQL
 Apollo GraphQL Server is a flexible and powerful backend framework that enables developers to build and deploy GraphQL APIs with ease. More information is available on the [apollographql.com](https://www.apollographql.com/) website.
