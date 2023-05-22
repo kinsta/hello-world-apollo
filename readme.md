@@ -1,4 +1,4 @@
-![Apollographql](https://github.com/palmiak/hello-world-apollo/assets/2342458/0f7bdd54-b6a3-43e7-bd09-dcd59720826e)
+![Apollographql](https://repository-images.githubusercontent.com/643852224/6d312bf2-90a0-4068-841c-743e8ac883b3)
 # Kinsta - Hello World - Apollo GraphQL!
 
 
