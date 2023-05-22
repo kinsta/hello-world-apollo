@@ -2,7 +2,7 @@
 # Kinsta - Hello World - Apollo GraphQL!
 
 
-An example of how to deploy a GrapQL server using Apollo GraphQL on Kinsta App Hosting services.
+An example of how to deploy a GraphQL server using Apollo GraphQL on Kinsta App Hosting services.
 
 ---
 Kinsta is a developer-centric cloud host / PaaS. We’re striving to make it easier for you to share your web projects with your users. Focus on coding and building, and we’ll take care of deployment and provide fast, scalable hosting. + 24/7 expert-only support.
