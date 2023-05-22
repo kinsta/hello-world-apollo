@@ -19,7 +19,7 @@ Kinsta automatically installs dependencies defined in your `package.json` file, 
 
 ### Port
 
-Kinsta automatically sets the `PORT` environment variable. You should **not** define it yourself and you should **not** hard-code it into the application. The `serve` package utilizes the port set by Kinsta automatically.
+Kinsta automatically sets the `PORT` environment variable. You should **not** define it yourself and you should **not** hard-code it into the application.
 
 ### Start Command
 
